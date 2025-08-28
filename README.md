@@ -40,9 +40,9 @@ Pasos a realizar:
 
 La actividad va de 3 documentos:
 
-[reporte html]()
+[reporte html](A1.5_652911.html)
 
-[reporte ipynb]()
+[reporte ipynb](A1.5_652911.ipynb)
 
-[reporte Calficaciones.cvs]()
+[reporte Calificaciones.cvs](Calificaciones.cvs)
 
