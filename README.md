@@ -38,5 +38,11 @@ Pasos a realizar:
 
 6. Modelo de regresión: Dividir datos (80% entrenamiento, 20% prueba). Ajustar modelo OLS, revisar resumen de resultados. Predecir sobre datos de prueba y comparar valores reales vs. estimados en un scatter plot.
 
+La actividad va de 3 documentos:
 
+[reporte html]()
+
+[reporte ipynb]()
+
+[reporte Calficaciones.cvs]()
 
