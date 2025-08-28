@@ -44,5 +44,5 @@ La actividad va de 3 documentos:
 
 [reporte ipynb](A1.5_652911.ipynb)
 
-[reporte Calificaciones.cvs](Calificaciones.cvs)
+[reporte Calificaciones.cvs](Calificaciones.csv)
 
